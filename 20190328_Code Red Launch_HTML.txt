@@ -1,0 +1,129 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>CodeRED Texas PAC</title>
+<style type="text/css">
+body,td,th {font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: #000;}
+body {margin-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px;}
+
+a:link {font-family:Helvetica, Arial, sans-serif; font-size:100%; color:#0072bc; text-decoration:underline;}
+a:active {font-family:Helvetica, Arial, sans-serif; font-size:100%; color:#0072bc; text-decoration:underline;}
+a:visited {font-family:Helvetica, Arial, sans-serif; font-size:100%; color:#0072bc; text-decoration:underline;}
+a:hover {font-family:Helvetica, Arial, sans-serif; font-size:100%; color:#0072bc; text-decoration:none;}
+
+.preheader { display:none !important; visibility:hidden; opacity:0; color:transparent; height:0; width:0; }
+/* - - - - - HOTMAIL FIXES */
+.ReadMsgBody {widows:100%;}
+.ExternalClass {width:100%;}
+@media screen and (max-width: 640px), screen and (max-device-width: 640px)
+{
+	body {-webkit-text-size-adjust: none;}
+	table[id=header] {width:100% !important;}
+	table[id=content] {width:100% !important;}
+	table[id=list] {width:100% !important;}
+	img[class=logo] {width: 95% !important; max-width: 350px !important; height: auto !important;}
+	img[class=image] {width: 100% !important; min-width: 270px !important; height: auto !important;}
+	table[id=disclaimer] {width: 240px !important;}
+	table[id=disclaimer2] {width: 230px !important; font-size:100% !important;}
+	font[id=disclaimertext] {font-size:90% !important;}
+	font[id=main] {font-size: 140% !important; line-height:180% !important;}
+	font[id=main2] {font-size: 180% !important; line-height:200% !important;}
+	font[id=quote] {font-size: 90% !important; line-height:150% !important;}
+	td[class=body] {font-size: 140% !important; line-height:180% !important;}
+}
+</style>
+</head>
+<body bgcolor="#ffffff" style="background-color:#fff;">
+<span class="preheader" style="display: none !important; visibility: hidden; opacity: 0; color: transparent; height: 0; width: 0;">Pelosi: Texas 'Ground Zero' for Democrats in 2020 --  For the first time in over 40 years, Democrats have firmly set their sights on flipping Texas blue. To make matters worse, IT COULD VERY WELL HAPPEN....</span>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" style="background-color:#fff;">
+	<tr>
+		<td bgcolor="#ffffff" style="background-color:#fff;">
+		<center>
+			<table width="650" border="0" cellspacing="0" cellpadding="20" id="content" bgcolor="#ffffff" style="background-color:#fff;">
+				<tr>
+					<td><center>
+<a href="https://secure.anedot.com/coderedtx/c7408a523b3b75e1c68f0"><img src="https://files.anedot.com/campaigns/c7408a523b3b75e1c68f0/header_image/a16b39a3-4fda-41a9-b023-915fa931aa53.png" border="0" width="425" height="125" class="logo" alt="CodeRED Texas PAC" /></a></center></td>
+				</tr>
+				<tr>
+					<td width="100%" valign="top" align="left" bgcolor="#ffffff" style="font-family:Arial, Helvetica, sans-serif; font-size:18px; line-height:24px; color:#000; background-color:#fff;" class="body">
+				<center>
+				<a href="https://secure.anedot.com/coderedtx/c7408a523b3b75e1c68f0"><img src="https://files.anedot.com/campaigns/c54c7e0edd4d11fac49eb/header_image/1cd6aea9-278d-4393-baae-6df548b6940f.png" border="0" width="590" height="89" class="image" alt="Pelosi: Texas Is Ground Zero For Democrats In 2020" /></a><br /><br />
+			</center>		
+						
+[%first_name | Friend%],
+    <br /><br />
+	For the first time in over 40 years, Democrats have firmly set their sights on flipping Texas blue. To make matters worse, <strong><em>IT COULD VERY WELL HAPPEN</em></strong> -- and we must do everything in our power to stop it.
+    <br /> <br />
+	That's why we've formed CodeRED Texas, an organization dedicated to ensuring the Texas we know and love stays out of liberal hands -- <strong><a href="https://secure.anedot.com/coderedtx/c7408a523b3b75e1c68f0">and why I'm urging you to join us before it's too late.</a></strong>
+	<br /> <br />
+	[%first_name | Friend%], elite liberals like George Soros are currently pouring millions into this state ahead of the upcoming elections because they know if the Left wins Texas, it will give them everything they need to seize control of this country and implement their radical agenda. 
+	<br /> <br />
+	But that's not the only reason I'm asking for your help. You see, I'm fighting to ensure my children and their children are able to grow up in the Texas I know and love. 
+	<br /> <br />
+	<strong><a href="https://secure.anedot.com/coderedtx/c7408a523b3b75e1c68f0">Will you make a special contribution of $25, $50, $100 or even $250 or more to help Texas fight back against the liberal elite and support conservative candidates statewide?</a></strong>  
+    <br />
+    <br />
+  <center><a href="https://secure.anedot.com/coderedtx/c7408a523b3b75e1c68f0?amount=25" style="width: 250px; height: 50px; border-radius: 2px; background-color:#c30000; display: block; border:3px solid #c30000; display: inline-table; cursor: pointer; text-decoration: none; margin: 5px auto; display: table-cell; vertical-align: middle; color: #ffffff; font-size: 19px; font-family: arial, sans-serif; text-align: center; font-weight:bold;">&nbsp;Contribute&nbsp;$25&nbsp;<br /></a><br /></center>
+  <center><a href="https://secure.anedot.com/coderedtx/c7408a523b3b75e1c68f0?amount=50" style="width: 250px; height: 50px; border-radius: 2px; background-color:#c30000; display: block; border:3px solid #c30000; display: inline-table; cursor: pointer; text-decoration: none; margin: 5px auto; display: table-cell; vertical-align: middle; color: #ffffff; font-size: 19px; font-family: arial, sans-serif; text-align: center; font-weight:bold;">&nbsp;Contribute&nbsp;$50&nbsp;<br /></a><br /></center>
+ <center><a href="https://secure.anedot.com/coderedtx/c7408a523b3b75e1c68f0?amount=100" style="width: 250px; height: 50px; border-radius: 2px; background-color:#c30000; display: block; border:3px solid #c30000; display: inline-table; cursor: pointer; text-decoration: none; margin: 5px auto; display: table-cell; vertical-align: middle; color: #ffffff; font-size: 19px; font-family: arial, sans-serif; text-align: center; font-weight:bold;">&nbsp;Contribute&nbsp;$100&nbsp;<br /></a><br /></center>
+ <center><a href="https://secure.anedot.com/coderedtx/c7408a523b3b75e1c68f0?amount=500" style="width: 250px; height: 50px; border-radius: 2px; background-color:#c30000; display: block; border:3px solid #c30000; display: inline-table; cursor: pointer; text-decoration: none; margin: 5px auto; display: table-cell; vertical-align: middle; color: #ffffff; font-size: 18px; font-family: arial, sans-serif; text-align: center; font-weight:bold;">&nbsp;Contribute&nbsp;Other&nbsp;&gt;&gt;&nbsp;<br /></a><br /></center>
+<br />
+With your support, we will do everything in our power to help as many candidates possible and preserve Texas in 2020 and beyond. 
+     <br />
+    <br />
+	<strong><a href="https://secure.anedot.com/coderedtx/c7408a523b3b75e1c68f0">Please stand with us today.</a></strong> 
+     <br />
+     <br />
+    <br />
+    Sincerely,
+    <br />
+    <br />
+  Matt, President <br />
+   <strong>CodeRED TEXAS PAC</strong> <br />
+   <br /> <br />
+   <center><a href="https://secure.anedot.com/coderedtx/c7408a523b3b75e1c68f0" style="width: 245px; height: 50px; border-radius: 2px; background-color:#c30000; display: block; border:3px solid #c30000; display: inline-table; cursor: pointer; text-decoration: none; margin: 5px auto; display: table-cell; vertical-align: middle; color: #ffffff; font-size: 19px; font-family: arial, sans-serif; text-align: center; font-weight:bold;">&nbsp;&nbsp;DONATE&nbsp;&nbsp;<br /></a><br /></center>
+   
+ <center><br /><font size="2" face="Arial, Verdana, Geneva" style="font-size: 14px; line-height: 18px; font-family: arial,verdana,helvetica,sans-serif;" id="quote">
+ "Texas has yet to learn submission to any oppression, come from what source it may."<br>-- <strong><em>General Sam Houston</em></strong>
+ <br />
+</font></center><br /><br />
+ 
+					</td>
+				</tr>
+			</table>
+		</center>
+		<br />
+		<br />
+		<center>
+			<table width="280" cellspacing="0" cellpadding="0" border="1" style="border:thin solid #000;" id="disclaimer">
+               	<tbody>
+                   	<tr>
+                       	<td valign="top" align="center">
+						<center>
+							<table width="270" cellspacing="0" cellpadding="5" border="0" id="disclaimer2">
+								<tbody>
+									<tr>
+										<td><center><font size="2" face="Arial, Verdana, Geneva" style="font-size: 13px; font-family: arial,verdana,helvetica,sans-serif;" id="disclaimertext"><strong>Paid for by CodeRED TEXAS PAC</strong><br /><a href="https://www.coderedtx.com">www.coderedtx.com</a><br /></font></center></td>
+									</tr>
+								</tbody>
+							</table>
+							
+						</center>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</br></br></br>
+			<a href="[unsubscribe]">Unsubscribe</a>
+			
+		</center>
+<br /><br />
+		</td>
+	</tr>
+</table>
+</body>
+</html>
+  
